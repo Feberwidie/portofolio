@@ -1,0 +1,124 @@
+/*Navbar*/
+#navbar{
+    font-family: ubuntu;
+}
+.btn-outline-success { 
+    color: rgb(190, 209, 83);
+    background-color: rgb(190, 209, 83);
+}
+
+/*Home*/
+#home{
+    background-color: rgb(190, 209, 83)
+}
+.image{
+    margin-top: 150px;
+    margin-bottom: 30px;
+}
+.avatar{
+    border-radius: 100%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 250px;
+    height: 250px;
+}
+
+.body-home{
+    padding-top: 30px;
+    padding-bottom: 165px;
+}
+
+/*About me*/
+#about{
+    background-color: white;
+    margin-top: 40px;
+    padding-top: 40px;
+    padding-bottom: 140px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.container{
+    font-family: ubuntu;
+    
+}
+.row{
+    font-family: ubuntu;
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.column{
+    padding-right: 70px;
+    padding-left: 70px;
+}
+h4{
+    padding-top: 10px;
+}
+/*My Skill*/
+.skill{
+    padding-top: 50px;
+    padding-bottom: 25px;
+    padding-right: 40px;
+    padding-left: 40px;
+}
+
+/*My Award*/
+#award{
+    margin-top: 50px;
+}
+.container-award{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+
+/*My Experiences*/
+#experiences{
+    margin-top: 30px;
+    
+}
+.body-experiences{
+    padding-top: 30px;
+
+}
+.row{
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+
+}
+
+
+
+/*Folow Me*/
+#follow{
+    padding-top: 20px;
+    background-color:rgb(190, 209, 83);
+    padding-bottom: 10px;
+    
+}
+.container{
+    padding-top: 30px;
+    
+}
+
+.icon-sosmed{
+    padding-top: 5px;
+    margin-top: 5px;
+    padding-left: 430px;
+    padding-right: 430px;
+
+}
+
+/*Footer*/
+.container-footer{
+    text-align: center;
+    background-color:rgb(190, 209, 83);
+    font-family: ubuntu;
+}
+footer{
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
